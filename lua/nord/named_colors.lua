@@ -2,7 +2,7 @@ local nord = {
 	--16 colors
 	black = "#2E3440", -- nord0 in palette
 	dark_gray = "#3B4252", -- nord1 in palette
-	gray = "#434C5E", -- nord2 in palette
+	gray = "#707e99", -- ORIGIN: "#434C5E", -- nord2 in palette
 	light_gray = "#8e99ae", -- ORIGIN : "#4C566A", -- nord3 in palette
 	light_gray_bright = "#abb3c3", -- 원본: #616E88", -- out of palette / 주석 등등
 	darkest_white = "#D8DEE9", -- nord4 in palette
